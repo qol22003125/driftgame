@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 62fb129266942b047932583f22ae3d5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Initial-Drift-long-logo-black-and-white_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 837
+        width: 1606
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef49912282b934bacf40c52539c4c8
+      internalID: 1326108676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Initial-Drift-long-logo-black-and-white_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 54
+        width: 1606
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d12772b690bd24b8a3357aac504c68
+      internalID: 853853550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17674d6580730f64c83916758549b5bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Initial-Drift-long-logo-black-and-white_0: 279041397
+      Initial-Drift-long-logo-black-and-white_1: -454265640
+      Initial-Drift-long-logo-black-and-white_10: -321427353
+      Initial-Drift-long-logo-black-and-white_11: 17071413
+      Initial-Drift-long-logo-black-and-white_12: -1343527878
+      Initial-Drift-long-logo-black-and-white_13: 11965815
+      Initial-Drift-long-logo-black-and-white_14: -562884046
+      Initial-Drift-long-logo-black-and-white_15: -834890993
+      Initial-Drift-long-logo-black-and-white_16: -1274843677
+      Initial-Drift-long-logo-black-and-white_17: -864530453
+      Initial-Drift-long-logo-black-and-white_18: 569251727
+      Initial-Drift-long-logo-black-and-white_19: 1290779200
+      Initial-Drift-long-logo-black-and-white_2: 115112309
+      Initial-Drift-long-logo-black-and-white_20: 771949616
+      Initial-Drift-long-logo-black-and-white_21: 842507194
+      Initial-Drift-long-logo-black-and-white_22: 2128164451
+      Initial-Drift-long-logo-black-and-white_23: 327803206
+      Initial-Drift-long-logo-black-and-white_24: 1737097453
+      Initial-Drift-long-logo-black-and-white_25: -553931841
+      Initial-Drift-long-logo-black-and-white_26: 359867785
+      Initial-Drift-long-logo-black-and-white_27: -19594903
+      Initial-Drift-long-logo-black-and-white_28: 915089476
+      Initial-Drift-long-logo-black-and-white_29: 1459516718
+      Initial-Drift-long-logo-black-and-white_3: -463900164
+      Initial-Drift-long-logo-black-and-white_30: 853853550
+      Initial-Drift-long-logo-black-and-white_31: 1355262700
+      Initial-Drift-long-logo-black-and-white_32: 1165754606
+      Initial-Drift-long-logo-black-and-white_33: 56850801
+      Initial-Drift-long-logo-black-and-white_34: -666554546
+      Initial-Drift-long-logo-black-and-white_35: 744575502
+      Initial-Drift-long-logo-black-and-white_36: -959573825
+      Initial-Drift-long-logo-black-and-white_37: -2108007348
+      Initial-Drift-long-logo-black-and-white_38: -1947395579
+      Initial-Drift-long-logo-black-and-white_39: -1803599288
+      Initial-Drift-long-logo-black-and-white_4: -1585913328
+      Initial-Drift-long-logo-black-and-white_40: -500477524
+      Initial-Drift-long-logo-black-and-white_41: 2062395349
+      Initial-Drift-long-logo-black-and-white_5: 1921264706
+      Initial-Drift-long-logo-black-and-white_6: -1827185487
+      Initial-Drift-long-logo-black-and-white_7: 436127652
+      Initial-Drift-long-logo-black-and-white_8: -675775386
+      Initial-Drift-long-logo-black-and-white_9: 1326108676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
